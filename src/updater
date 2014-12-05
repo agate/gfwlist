@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+http_proxy=localhost:8123
+
+curl -s https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt | base64 -d
