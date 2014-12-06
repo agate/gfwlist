@@ -1,37 +1,39 @@
-*://*.101hacks.com/*
-*://*.akamaihd.net/*
+! GOOGLE
+/http(s)?:\/\/[^\/]*google.cn|google.com.hk|google.com|gmail.com|goo.gl|googlehosted.com|googleusercontent.com|googletagservices.com|googlesyndication.com|googleadservices.com|googlevideo.com|googlecode.com|googleapis.com|google-analytics.com|feedburner.com|gstatic.com|appspot.com|ytimg.com|ggpht.com|android.com|doubleclick.net|g.co|chrome.com|youtube.com|blogspot.com\/.*/
 
-*://*.images-amazon.com/*
-*://*.amazonaws.com/*
-*://*.amazon-adsystem.com/*
+! AMAZON
+||images-amazon.com
+||amazonaws.com
+||amazon-adsystem.com
 
-*://*appinn.com/*
-*://cdn.sstatic.net/*
-*://*.cloudfront.net/*
-*://*.coursera.org/*
-*://db.tt/*
-*://*.feedly.com/*
-*://*.feedsportal.com/*
+! GITHUB
+||github.com
+||github.io
 
-*://*.github.com/*
-*://*.github.io/*
-
-http(s)?:\/\/[^\/]*google.cn|google.com.hk|google.com|gmail.com|goo.gl|googlehosted.com|googleusercontent.com|googletagservices.com|googlesyndication.com|googleadservices.com|googlevideo.com|googlecode.com|googleapis.com|google-analytics.com|feedburner.com|gstatic.com|appspot.com|ytimg.com|ggpht.com|android.com|doubleclick.net|g.co|chrome.com|youtube.com|blogspot.com\/.*
-
-*://*.gravatar.com/*
-*://*.heroku.com/*
-*://i.stack.imgur.com/*
-*://*.macupdate.com/*
-*://api.tiles.mapbox.com/*
-*://raster.nationalmap.gov/*
-*://*.playpcesor.com/*
-*://*.readthedocs.org/*
-*://*.rubygems.org/*
-*://*.seleniumhq.org/*
-*://*.shutterstock.com/*
-*://*.speakerdeck.com/*
-*://*.sourcemaps.stripe.com/*
-*://*.travis-ci.com/*
-*://*.wikimedia.org/*
-*://*.wikia.com/*
-*://*.wp.com/*
+! OTHERS
+||101hacks.com
+||akamaihd.net
+||appinn.com
+||sstatic.net
+||cloudfront.net
+||coursera.org
+||db.tt
+||feedly.com
+||feedsportal.com
+||gravatar.com
+||heroku.com
+||stack.imgur.com
+||macupdate.com
+||api.tiles.mapbox.com
+||raster.nationalmap.gov
+||playpcesor.com
+||readthedocs.org
+||rubygems.org
+||seleniumhq.org
+||shutterstock.com
+||speakerdeck.com
+||sourcemaps.stripe.com
+||travis-ci.com
+||wikimedia.org
+||wikia.com
+||wp.com
