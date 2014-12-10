@@ -12,6 +12,5 @@ task :gen do
     rules += "\n#{File.read(f)}"
   end
 
-  puts rules
   File.write(DIST_FILE, Base64.encode64(rules))
 end
