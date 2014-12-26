@@ -1,5 +1,30 @@
 ! GOOGLE
-/http(s)?:\/\/[^\/]*google.cn|google.com.hk|google.co.jp|google.com|gmail.com|goo.gl|googlehosted.com|googleusercontent.com|googletagservices.com|googlesyndication.com|googleadservices.com|googlevideo.com|googlecode.com|googleapis.com|google-analytics.com|feedburner.com|gstatic.com|appspot.com|ytimg.com|ggpht.com|android.com|doubleclick.net|g.co|chrome.com|youtube.com|blogspot.com\/.*/
+||google.cn
+||google.com.hk
+||google.co.jp
+||google.com
+||gmail.com
+||goo.gl
+||g.co
+||googlehosted.com
+||googleusercontent.com
+||googletagservices.com
+||googlesyndication.com
+||googleadservices.com
+||googlevideo.com
+||googlecode.com
+||googleapis.com
+||google-analytics.com
+||feedburner.com
+||gstatic.com
+||appspot.com
+||ytimg.com
+||ggpht.com
+||android.com
+||doubleclick.net
+||chrome.com
+||youtube.com
+||blogspot.com
 
 ! AMAZON
 ||images-amazon.com
