@@ -6,7 +6,8 @@ DIST_FILE   = "#{ROOT_DIR}/dist/gfwlist.txt"
 
 desc 'Generate new list'
 task :gen do
-  rules = `curl -s #{GFWLIST_URL} | base64 -d`.strip
+  cmd = "curl -k -s #{GFWLIST_URL} | base64 -d"
+  rules = `#{cmd}`.strip
 
   Dir["#{ROOT_DIR}/src/custom.list.d/*.list"].each do |f|
     rules += "\n#{File.read(f)}"
