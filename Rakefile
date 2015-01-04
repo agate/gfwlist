@@ -10,7 +10,7 @@ task :gen do
   rules = `#{cmd}`.strip
 
   Dir["#{ROOT_DIR}/src/custom.list.d/*.list"].each do |f|
-    rules += "\n#{File.read(f)}"
+    rules += "\n\n#{File.read(f)}"
   end
 
   File.write(DIST_FILE, Base64.encode64(rules))
