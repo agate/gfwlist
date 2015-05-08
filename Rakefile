@@ -15,3 +15,8 @@ task :gen do
 
   File.write(DIST_FILE, Base64.encode64(rules))
 end
+
+desc 'Dump readable rules'
+task :read do
+  puts Base64.decode64(File.read(DIST_FILE))
+end
