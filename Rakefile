@@ -1,6 +1,6 @@
 require 'base64'
 
-GFWLIST_URL = 'https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt'
+GFWLIST_URL = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
 ROOT_DIR    = File.expand_path('..', __FILE__)
 DIST_FILE   = "#{ROOT_DIR}/dist/gfwlist.txt"
 
