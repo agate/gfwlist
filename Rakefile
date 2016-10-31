@@ -2,6 +2,7 @@ require 'base64'
 
 GFWLIST_URL = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
 ROOT_DIR    = File.expand_path('..', __FILE__)
+SRC_FILE    = "#{ROOT_DIR}/dist/gfwlist.src.txt"
 DIST_FILE   = "#{ROOT_DIR}/dist/gfwlist.txt"
 
 desc 'Generate new list'
@@ -13,10 +14,6 @@ task :gen do
     rules += "\n\n#{File.read(f)}"
   end
 
+  File.write(SRC_FILE, rules)
   File.write(DIST_FILE, Base64.encode64(rules))
-end
-
-desc 'Dump readable rules'
-task :read do
-  puts Base64.decode64(File.read(DIST_FILE))
 end
