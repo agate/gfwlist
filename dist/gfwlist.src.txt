@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /4B21YVpJClNpIlau6d49w
+! Checksum: 62BIagZMgByvv9yThsXQNA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Nov 2016 15:50:08 +0100
+! Last Modified: Wed, 14 Dec 2016 02:51:31 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -163,6 +163,7 @@
 ||wingamestore.com
 ||wizcrafts.net
 ||xfinity.com
+||ytn.co.kr
 ||zattoo.com
 ||zozotown.com
 
@@ -185,6 +186,7 @@ china-mmm.sa.com
 
 !---------------------Groups--------------------
 !!---Amazon---
+.amazon.com/Dalai-Lama
 s3-ap-northeast-1.amazonaws.com
 
 !!---AvMoo---
@@ -463,6 +465,7 @@ blogspot.com
 .google.ie
 .google.is
 .google.it
+.google.jo
 .google.ms
 .google.nl
 .google.nu
@@ -515,6 +518,7 @@ blogspot.com
 ||itasoftware.com
 ||like.com
 ||madewithcode.com
+||material.io
 ||nic.google
 ||on2.com
 ||panoramio.com
@@ -639,6 +643,7 @@ zhao.1984.city
 ||4shared.com
 taiwannation.50webs.com
 ||51.ca
+||51jav.org
 .51luoben.com
 ||51luoben.com
 5aimiku.com
@@ -1027,6 +1032,7 @@ bitsnoop.com
 bizhat.com
 ||bl-doujinsouko.com
 .bjnewlife.org
+.bjs.org
 bjzc.org
 ||bjzc.org
 .blacklogic.com
@@ -1447,6 +1453,7 @@ hkupop.hku.hk
 ||cmule.org
 ||cms.gov
 .cn6.eu
+.cna.com.tw
 ||cna.com.tw
 .cnabc.com
 .cnd.org
@@ -3133,6 +3140,8 @@ chinese.irib.ir
 ||ismprofessional.net
 isohunt.com
 ||israbox.com
+.issuu.com
+||issuu.com
 .istars.co.nz
 oversea.istarshine.com
 ||oversea.istarshine.com
@@ -3358,6 +3367,7 @@ latelinenews.com
 ||le-vpn.com
 .leafyvpn.net
 ||leafyvpn.net
+leeao.com.cn/bbs/forum.php
 !--||leecheukyan.org
 lefora.com
 ||left21.hk
@@ -3539,6 +3549,7 @@ mcreasite.com
 ||mediafreakcity.com
 .medium.com
 ||medium.com
+.meetav.com
 ||meetup.com
 mefeedia.com
 .megaporn.com
@@ -3913,6 +3924,7 @@ nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
 !--||nyt.com
+nytcn.me
 ||nytco.com
 |http://nyti.ms/
 .nytimes.com
@@ -4169,6 +4181,7 @@ popyard.com
 ||pornrapidshare.com
 .pornsharing.com
 |http://pornsharing.com
+.pornsocket.com
 .pornstarclub.com
 ||pornstarclub.com
 .porntube.com
@@ -4197,6 +4210,7 @@ proxyanonimo.es
 pubu.com.tw
 puffinbrowser.com
 pureinsight.org
+.putty.org
 ||putty.org
 
 !-------------Posterous-----
@@ -4481,7 +4495,6 @@ domainhelp.search.com
 .searchtruth.com
 secretchina.com
 ||secretgarden.no
-||default.secureserver.net
 .secretsline.biz
 ||secretsline.biz
 ||securetunnel.com
@@ -5373,6 +5386,7 @@ twitoaster.com
 ||t.co
 |http://twt.tl
 twittbot.net
+||ads-twitter.com
 .twitter.com
 ||twitter.com
 ||twitter.jp
@@ -5764,7 +5778,7 @@ zh.uncyclopedia.wikia.com
 ||wikileaks.eu
 ||wikileaks.lu
 .wikileaks.org
-!--||wikileaks.org
+||wikileaks.org
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
@@ -6047,6 +6061,7 @@ yong.hu
 .youjizz.com
 ||youjizz.com
 youmaker.com
+youngspiration.hk
 .youpai.org
 ||youpai.org
 .your-freedom.net
@@ -6139,6 +6154,7 @@ zhuichaguoji.org
 realforum.zkiz.com
 !--||zlib.net
 ||zmw.cn
+.zodgame.us
 zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
@@ -6278,9 +6294,10 @@ taipei.gov.tw
 !--@@||bing.com
 @@||bt.byr.cn
 @@||chinaso.com
+@@||chinaz.com
 @@|http://nrch.culture.tw/
 !--ISP cache works sometimes, verified at drpeng + gehua.
-!--@@||dl.google.com
+@@||dl.google.com
 @@||fonts.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
@@ -6426,3 +6443,4 @@ taipei.gov.tw
 ||fluentd.org
 ||elastic.co
 ||docker.com
+||cedexis-radar.net
