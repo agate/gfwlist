@@ -6321,17 +6321,10 @@ taipei.gov.tw
 @@||chinaz.com
 @@|http://nrch.culture.tw/
 !--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||fonts.googleapis.com
 @@||cn.gravatar.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
 @@||haosou.com
 @@||jd.com
 @@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
 @@||qq.com
@@ -6377,14 +6370,6 @@ taipei.gov.tw
 ||chrome.com
 ||youtube.com
 ||blogspot.com
-
-! GOOGLE HAVE TO USE PROXY
-||dl.google.com
-||kh.google.com
-||fonts.googleapis.com
-||cn.gravatar.com
-||csi.gstatic.com
-||fonts.gstatic.com
 
 ! AMAZON
 ||images-amazon.com

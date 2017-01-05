@@ -5313,12 +5313,7 @@ DOMAIN-SUFFIX, aliyun.com, DIRECT
 DOMAIN-SUFFIX, baidu.com, DIRECT
 DOMAIN-SUFFIX, chinaso.com, DIRECT
 DOMAIN-SUFFIX, chinaz.com, DIRECT
-DOMAIN-SUFFIX, dl.google.com, DIRECT
-DOMAIN-SUFFIX, kh.google.com, DIRECT
-DOMAIN-SUFFIX, fonts.googleapis.com, DIRECT
 DOMAIN-SUFFIX, cn.gravatar.com, DIRECT
-DOMAIN-SUFFIX, csi.gstatic.com, DIRECT
-DOMAIN-SUFFIX, fonts.gstatic.com, DIRECT
 DOMAIN-SUFFIX, haosou.com, DIRECT
 DOMAIN-SUFFIX, jd.com, DIRECT
 DOMAIN-SUFFIX, jike.com, DIRECT
@@ -5361,12 +5356,6 @@ DOMAIN-SUFFIX, doubleclick.net, Proxy
 DOMAIN-SUFFIX, chrome.com, Proxy
 DOMAIN-SUFFIX, youtube.com, Proxy
 DOMAIN-SUFFIX, blogspot.com, Proxy
-DOMAIN-SUFFIX, dl.google.com, Proxy
-DOMAIN-SUFFIX, kh.google.com, Proxy
-DOMAIN-SUFFIX, fonts.googleapis.com, Proxy
-DOMAIN-SUFFIX, cn.gravatar.com, Proxy
-DOMAIN-SUFFIX, csi.gstatic.com, Proxy
-DOMAIN-SUFFIX, fonts.gstatic.com, Proxy
 DOMAIN-SUFFIX, images-amazon.com, Proxy
 DOMAIN-SUFFIX, amazonaws.com, Proxy
 DOMAIN-SUFFIX, aws.amazon.com, Proxy

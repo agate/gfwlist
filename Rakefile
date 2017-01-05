@@ -9,7 +9,10 @@ SURGE_FILE  = "#{ROOT_DIR}/dist/surge.rules.txt"
 desc 'Generate New List'
 task :gen do
   cmd = "curl -k -s #{GFWLIST_URL} | base64 -d"
-  rules = `#{cmd}`.strip
+  rules = `#{cmd}`.strip.split("\n").select do |line|
+    !(line =~ /^@@.*google.*/) &&
+    !(line =~ /^@@.*gstatic.*/)
+  end.join("\n")
 
   Dir["#{ROOT_DIR}/src/custom.list.d/*.list"].each do |f|
     rules += "\n\n#{File.read(f)}"
@@ -17,6 +20,8 @@ task :gen do
 
   File.write(SRC_FILE, rules)
   File.write(DIST_FILE, Base64.encode64(rules))
+
+  Rake::Task["surge:gen"].invoke
 end
 
 namespace :surge do
