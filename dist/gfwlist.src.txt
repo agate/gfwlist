@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6RSr+zVShHZVV6AyzVAIaA
+! Checksum: M7UibacG/XgmqyiupCx76w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 Jan 2017 19:21:59 +0100
+! Last Modified: Sun, 22 Jan 2017 15:09:24 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -45,7 +45,7 @@
 |http://img.dlsite.jp/
 !--||share.dmhy.org
 ||dmm.co.jp
-!--||dmm.com
+|http://www.dmm.com/netgame
 ||eesti.ee
 .expekt.com
 ||expekt.com
@@ -93,6 +93,7 @@
 ||juliepost.com
 ||kawaiikawaii.jp
 ||khatrimaza.org
+||kkbox.com
 ||leisurepro.com
 ||longtoes.com
 ||lovetvshow.com
@@ -106,12 +107,14 @@
 ||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
+||kb.monitorware.com
 ||monster.com
 ||moodyz.com
 ||muzu.tv
 ||mvg.jp
 ||nationwide.com
 |http://www.nbc.com/live
+||neo-miracle.com
 ||netflix.com
 |http://mo.nightlife141.com
 ||nordstrom.com
@@ -123,6 +126,7 @@
 ||nusatrip.com
 ||nuuvem.com
 ||omni7.jp
+||onapp.com
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
@@ -140,6 +144,7 @@
 |http://cdn*.search.xxx/
 ||shutterstock.com
 ||slacker.com
+||sm-miracle.com
 ||spotify.com
 ||springboardplatform.com
 ||sprite.org
@@ -185,6 +190,9 @@ china-mmm.jp.net
 china-mmm.sa.com
 
 !---------------------Groups--------------------
+!!---Afraid FreeDNS---
+.now.im
+
 !!---Amazon---
 .amazon.com/Dalai-Lama
 s3-ap-northeast-1.amazonaws.com
@@ -445,6 +453,9 @@ blogspot.com
 .google.ae
 .google.as
 .google.am
+.google.at
+.google.az
+.google.ba
 .google.cat
 .google.cd
 .google.ci
@@ -462,6 +473,7 @@ blogspot.com
 .google.fm
 .google.fr
 .google.gg
+.google.gl
 .google.ie
 .google.is
 .google.it
@@ -475,6 +487,7 @@ blogspot.com
 .google.sh
 .google.sk
 .google.sm
+.google.sn
 .google.tk
 .google.to
 .google.tt
@@ -539,6 +552,7 @@ blogspot.com
 ||tiltbrush.com
 !--||www.google
 ||waveprotocol.org
+||waymo.com
 ||webmproject.org
 ||webrtc.org
 ||whatbrowser.org
@@ -1265,7 +1279,7 @@ ccue.com
 .cgdepot.org
 |http://cgdepot.org
 ||cdbook.org
-||cdd.me
+.cdcparty.com
 .cdef.org
 ||cdef.org
 ||cdig.info
@@ -1349,21 +1363,18 @@ chinachannel.hk
 chinageeks.org
 chinagfw.org
 ||chinagfw.org
+.chinagonet.com
 .chinagreenparty.org
 ||chinagreenparty.org
 .chinahorizon.org
 ||chinahorizon.org
 .chinahush.com
+.chinainperspective.com
+||chinainterimgov.org
 chinalaborwatch.org
 chinalawtranslate.com
 .chinapost.com.tw/taiwan/national/national-news
 chinaxchina.com/howto
-.chinainperspective.com
-chinainperspective.net/ArtShow.aspx?
-||chinainperspective.net
-.chinainperspective.org
-||chinainperspective.org
-||chinainterimgov.org
 chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
@@ -1404,7 +1415,7 @@ chinese-memorial.org
 .chinman.net
 |http://chinman.net
 chithu.org
-chn.chosun.com
+cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 .chrdnet.com
 |http://chrdnet.com
 .christianfreedom.org
@@ -1459,6 +1470,7 @@ hkupop.hku.hk
 ||cmule.com
 ||cmule.org
 ||cms.gov
+|http://vpn.cmu.edu
 .cn6.eu
 .cna.com.tw
 ||cna.com.tw
@@ -1555,6 +1567,8 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+.d-fukyu.com
+|http://d-fukyu.com
 cl.d0z.net
 .d100.net
 .d2bay.com
@@ -2744,11 +2758,14 @@ h1n1china.org
 .hacg.red
 |http://hacg.red
 .hacken.cc/bbs
+.hacker.org
 ||hackthatphone.net
 hahlo.com
 ||hakkatv.org.tw
+.handcraftedsoftware.org
 |http://bbs.hanminzu.org/
 .hanunyi.com
+.hao.news/news
 |http://ae.hao123.com
 |http://ar.hao123.com
 |http://br.hao123.com
@@ -2956,6 +2973,7 @@ huaglad.com
 .huangyiyu.com
 .huaren.us
 ||huaren.us
+bbs.huasing.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -3126,6 +3144,7 @@ ipalter.com
 .ipjetable.net
 ||ipjetable.net
 .ipobar.com/read.php?
+ipoock.com/img
 .iportal.me
 |http://iportal.me
 ||ippotv.com
@@ -3251,6 +3270,8 @@ weiboscope.jmsc.hku.hk
 ||journalofdemocracy.org
 .joymiihub.com
 jpopforum.net
+.jubushoushen.com
+||jubushoushen.com
 !--Doamin parking
 .juhuaren.com
 ||juliereyc.com
@@ -3258,6 +3279,9 @@ jpopforum.net
 .june4commemoration.org
 .junefourth-20.net
 ||junefourth-20.net
+||bbs.junglobal.net
+.juoaa.com
+|http://juoaa.com
 justfreevpn.com
 .justicefortenzin.org
 justpaste.it
@@ -3333,7 +3357,9 @@ killwall.com
 .koornk.com
 ||koornk.com
 ||koranmandarin.com
+.korenan2.com
 |http://gojet.krtco.com.tw
+.ksdl.org
 .ksnews.com.tw
 ||ktzhk.com
 .kui.name/event
@@ -3341,9 +3367,9 @@ kun.im
 .kurashsultan.com
 ||kurtmunger.com
 kusocity.com
-||kusos.com
 ||kwcg.ca
 kwongwah.com.my
+.kyofun.com
 kyohk.net
 ||kyoyue.com
 .kzeng.info
@@ -3751,6 +3777,7 @@ mycould.com/discuz
 .myfreshnet.com
 forum.mymaji.com
 mymediarom.com/files/box
+||mymoe.moe
 ||mymusic.net.tw
 ||myparagliding.com
 ||mypopescu.com
@@ -3786,15 +3813,16 @@ namgyalmonastery.org
 ||jpl.nasa.gov
 ||pds.nasa.gov
 ||solarsystem.nasa.gov
-/^https?:\/\/[^\/]+line\.naver\.jp/
 .nakido.com
 ||nakido.com
 .naol.ca
+.naol.cc
 uighur.narod.ru
 cyberghost.natado.com
 ||national-lottery.co.uk
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 .nationsonline.org/oneworld/tibet
+||line.naver.jp
 ||navyfamily.navy.mil
 ||navyreserve.navy.mil
 ||nko.navy.mil
@@ -3833,9 +3861,9 @@ newipnow.com
 .newlandmagazine.com.au
 .newnews.ca
 news100.com.tw
+newschinacomment.org
 .newscn.org
 ||newscn.org
-||newsminer.com
 newspeak.cc/story
 .newsancai.com
 ||newsancai.com
@@ -4415,7 +4443,7 @@ rfaweb.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
-.rhcloud.com
+!--.rhcloud.com
 !--Edgecast
 |http://vds.rightster.com/
 .rigpa.org
@@ -4605,6 +4633,7 @@ ch.shvoong.com
 .sidelinessportseatery.com
 .sijihuisuo.club
 .sijihuisuo.com
+.silkbook.com
 simplecd.org
 ||simplecd.org
 @@||simplecd.me
@@ -4745,12 +4774,10 @@ soundofhope.org
 !--.sourceforge.net
 !-|http://sourceforge.net
 |http://sourceforge.net/p*/shadowsocksgui/
-|http://nchc.dl.sourceforge.net
 .sourcewadio.com
 southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
-||space-scape.com
 ||spankbang.com
 .spankwire.com
 ||spb.com
@@ -5252,6 +5279,7 @@ tuidang.org
 bbs.tuitui.info
 .tumutanzi.com
 |http://tumutanzi.com
+||tumview.com
 .tunein.com
 |http://tunein.com
 ||tunnelbear.com
@@ -5266,6 +5294,7 @@ bbs.tuitui.info
 ||tuo8.org
 .tuo8.pw
 |http://tuo8.pw
+.tuo8.space
 tuitwit.com
 .turansam.org
 .turbobit.net
@@ -5291,14 +5320,9 @@ tuitwit.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
-!--blockedonweibo.tumblr.com
-!--||fqrouter.tumblr.com
-!--fanqiangkan.tumblr.com
-!--fubaichina.tumblr.com
 
 .tv.com
 |http://tv.com
-||tv-intros.com
 tvants.com
 forum.tvb.com
 news.tvb.com/list/world
@@ -5757,6 +5781,7 @@ webworkerdaily.com
 ||wefightcensorship.org
 .wefong.com
 weiboleak.com
+.weihuo.org
 weijingsheng.org
 .weiming.info
 ||weiming.info
@@ -5863,6 +5888,11 @@ zh.m.wikipedia.org
 |https://zh.m.wikipedia.org
 !--@@||m.wikipedia.org
 |https://zh.wikipedia.org
+!--Other Languages of Wikipedia
+wuu.wikipedia.org
+|https://wuu.wikipedia.org
+zh-yue.wikipedia.org
+|https://zh-yue.wikipedia.org
 
 ||wikiwiki.jp
 ||casino.williamhill.com
@@ -6032,6 +6062,8 @@ hk.search.yahoo.com/search
 hk.video.news.yahoo.com/video
 meme.yahoo.com
 !--tw.yahoo.com
+tw.answers.yahoo.com
+|https://tw.answers.yahoo.com
 ||tw.knowledge.yahoo.com
 ||tw.mall.yahoo.com
 tw.yahoo.com
@@ -6462,3 +6494,4 @@ taipei.gov.tw
 ||docker.com
 ||cedexis-radar.net
 ||vaultproject.io
+||herokuapp.com
