@@ -371,6 +371,7 @@ DOMAIN-SUFFIX, android.com, Proxy
 DOMAIN-SUFFIX, androidify.com, Proxy
 DOMAIN-KEYWORD, .appspot.com, Proxy
 DOMAIN-SUFFIX, appspot.com, Proxy
+DOMAIN-SUFFIX, blog.google, Proxy
 DOMAIN-KEYWORD, blogspot.com, Proxy
 DOMAIN-KEYWORD, /^https?:\/\/[^\/]+blogspot\.(.*)/, Proxy
 DOMAIN-KEYWORD, .blogspot.hk, Proxy
@@ -389,6 +390,7 @@ DOMAIN-SUFFIX, deepmind.com, Proxy
 DOMAIN-SUFFIX, deja.com, Proxy
 DOMAIN-SUFFIX, digisfera.com, Proxy
 DOMAIN-SUFFIX, domains.google, Proxy
+DOMAIN-SUFFIX, environment.google, Proxy
 DOMAIN-SUFFIX, feedburner.com, Proxy
 DOMAIN-SUFFIX, g.co, Proxy
 DOMAIN-SUFFIX, gcr.io, Proxy
@@ -787,6 +789,7 @@ DOMAIN-SUFFIX, apkpure.com, Proxy
 DOMAIN-KEYWORD, .aplusvpn.com, Proxy
 DOMAIN-KEYWORD, .appdownloader.net/Android, Proxy
 DOMAIN-KEYWORD, appledaily.com, Proxy
+DOMAIN-KEYWORD, .appshopper.com, Proxy
 DOMAIN-SUFFIX, appsocks.net, Proxy
 DOMAIN-SUFFIX, appsto.re, Proxy
 DOMAIN-SUFFIX, archives.gov, Proxy
@@ -1127,6 +1130,7 @@ DOMAIN-SUFFIX, cams.com, Proxy
 DOMAIN-KEYWORD, .cams.org.sg, Proxy
 DOMAIN-KEYWORD, canadameet.com, Proxy
 DOMAIN-KEYWORD, .canyu.org, Proxy
+DOMAIN-SUFFIX, canyu.org, Proxy
 DOMAIN-KEYWORD, .cao.im, Proxy
 DOMAIN-KEYWORD, .caobian.info, Proxy
 DOMAIN-SUFFIX, caobian.info, Proxy
@@ -4710,6 +4714,7 @@ DOMAIN-KEYWORD, tvider.com, Proxy
 DOMAIN-KEYWORD, .tvmost.com.hk, Proxy
 DOMAIN-KEYWORD, .tvplayvideos.com, Proxy
 DOMAIN-SUFFIX, tvunetworks.com, Proxy
+DOMAIN-KEYWORD, .tw-blog.com, Proxy
 DOMAIN-KEYWORD, .tw-npo.org, Proxy
 DOMAIN-KEYWORD, .twaitter.com, Proxy
 DOMAIN-KEYWORD, twapperkeeper.com, Proxy
@@ -5641,6 +5646,7 @@ DOMAIN-SUFFIX, blogspot.com, Proxy
 DOMAIN-SUFFIX, images-amazon.com, Proxy
 DOMAIN-SUFFIX, amazonaws.com, Proxy
 DOMAIN-SUFFIX, aws.amazon.com, Proxy
+DOMAIN-SUFFIX, awsstatic.com, Proxy
 DOMAIN-SUFFIX, amazon-adsystem.com, Proxy
 DOMAIN-SUFFIX, github.com, Proxy
 DOMAIN-SUFFIX, github.io, Proxy
