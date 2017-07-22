@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mhSDxWNkfa/5hnJhxI50eA
+! Checksum: N8jdZTxX3BrQlyrK+Byt3w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 10 Jun 2017 23:00:50 -0400
+! Last Modified: Wed, 19 Jul 2017 21:51:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -29,6 +29,7 @@
 ||asianspiss.com
 ||athenaeizou.com
 ||azubu.tv
+||banorte.com
 !--||barracuda.com
 ||bash-hackers.org
 ||beeg.com
@@ -49,6 +50,7 @@
 |http://img.dlsite.jp/
 ||dm530.net
 share.dmhy.org
+@@|https://share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||eesti.ee
@@ -129,6 +131,11 @@ share.dmhy.org
 |http://www.nbc.com/live
 ||neo-miracle.com
 ||netflix.com
+||nflximg.com
+||nflximg.net
+||nflxext.com
+||nflxso.net
+||nflxvideo.net
 |http://mo.nightlife141.com
 ||nordstrom.com
 ||nordstromimage.com
@@ -146,6 +153,7 @@ share.dmhy.org
 ||pandora.com
 .pandora.tv
 ||parkansky.com
+||phmsociety.org
 |http://*.pimg.tw/
 ||pure18.com
 ||qq.co.za
@@ -176,6 +184,7 @@ share.dmhy.org
 ||tryheart.jp
 ||turntable.fm
 ||twerkingbutt.com
+||ulop.net
 ||vegasred.com
 ||vevo.com
 ||vip-enterprise.com
@@ -448,6 +457,7 @@ d3c33hcgiwev3.cloudfront.net
 ||m.me
 ||messenger.com
 ||oculus.com
+||rocksdb.org
 
 !!---Google---
 !###https://www.google.com/supported_domains###
@@ -479,6 +489,7 @@ blogspot.com
 ||data-vocabulary.org
 ||deepmind.com
 ||deja.com
+||design.google
 ||digisfera.com
 ||domains.google
 ||environment.google
@@ -880,6 +891,7 @@ www1.american.edu/ted/ice/tibet
 |http://amitabhafoundation.us
 .amnesty.org
 ||amnesty.org
+||amnesty.org.hk
 .amnesty.tw
 .amnestyusa.org
 ||amnestyusa.org
@@ -1236,6 +1248,7 @@ briian.com/6511/freegate
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 brizzly.com
 ||brizzly.com
+||brkmd.com
 broadbook.com
 .broadpressinc.com
 ||broadpressinc.com
@@ -1246,6 +1259,7 @@ brucewang.net
 .bt2mag.com
 ||bt95.com
 .btaia.com
+.btbtav.com
 |http://btdigg.org
 .btku.me
 ||btku.me
@@ -1270,8 +1284,8 @@ bunbunhk.com
 .businessinsider.com/internet-outages-reported-in-north-korea-2014
 .businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
 .businessinsider.com/nfl-announcers-surface-tablets-2014
+.businessinsider.com/panama-papers
 .businessinsider.com/umbrella-man-hong-kong-2014
-|http://static*.businessinsider.com/
 |http://www.businessinsider.com.au/*
 .businessweek.com
 .busu.org/news
@@ -1410,6 +1424,7 @@ cdpwu.org
 ||changp.com
 .changsa.net
 |http://changsa.net
+.channel8news.sg/news8
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
@@ -2027,7 +2042,8 @@ wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 etaiwannews.com
 ||etizer.org
 ||etokki.com
-.ettoday.net
+!--.ettoday.net
+.ettoday.net/news/20151216/614081
 etvonline.hk
 .eu.org
 ||eu.org
@@ -2214,6 +2230,7 @@ fleshbot.com
 ||staticflickr.com
 
 flickrhivemind.net
+.flickriver.com
 .fling.com
 ||flipkart.com
 |http://cn.fmnnow.com
@@ -2225,7 +2242,6 @@ pioneer-worker.forums-free.com
 !--foursquare.com
 !--|http://4sq.com
 |https://ss*.4sqi.net
-||fotop.net
 video.foxbusiness.com
 |http://foxgay.com
 ||fringenetwork.com
@@ -2278,6 +2294,7 @@ whitebear.freebearblog.org
 .free-hada-now.org
 freeilhamtohti.org
 .freekwonpyong.org
+||saveliuxiaobo.com
 .freelotto.com
 ||freelotto.com
 freeman2.com
@@ -2336,7 +2353,11 @@ hk.frienddy.com/hk
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
 .ftchinese.com/story/001026807
+.ftchinese.com/story/001030502
 .ftchinese.com/story/001032692
+.ftchinese.com/story/001034926
+.ftchinese.com/story/001034927
+.ftchinese.com/story/001034928
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
@@ -2421,6 +2442,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001071181
 .ftchinese.com/story/001071208
 .ftchinese.com/story/001071238
+.ftchinese.com/story/001073408
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -2477,6 +2499,7 @@ gardennetworks.com
 !--IP of Garden Network
 72.52.81.22
 ||gartlive.com
+||gate-project.com
 ||gather.com
 gati.org.tw
 .gaybubble.com
@@ -2530,7 +2553,7 @@ gfbv.de
 ||gfsale.com
 gfw.org.ua
 .gfw.press
-|http://gfw.press
+||gfw.press
 .ggssl.com
 ||ggssl.com
 ||ghost.org
@@ -2624,6 +2647,7 @@ blog.goo.ne.jp/duck-tail_2009
 grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
+||graphql.org
 !--||s.gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
@@ -3035,6 +3059,7 @@ hizb-ut-tahrir.org
 .hk-pub.com/forum
 |http://hk-pub.com
 .hk01.com
+||hk01.com
 .hk32168.com
 ||hk32168.com
 ||hkacg.com
@@ -3228,7 +3253,6 @@ forum.idsam.com
 .ienergy1.com
 |http://if.ttt/
 ifanqiang.com
-.ifanr.com/857
 .ifcss.org
 ||ifcss.org
 ifjc.org
@@ -3312,7 +3336,7 @@ internetfreedom.org
 inxian.com
 ||inxian.com
 ipalter.com
-||ipcf.org.tw
+!--||ipcf.org.tw
 ||iphone4hongkong.com
 ||iphonehacks.com
 ||iphonetaiwan.org
@@ -3516,6 +3540,7 @@ karkhung.com
 .kechara.com
 .keepandshare.com/visit/visit_page.php?i=688154
 !--||keepvid.com
+.keezmovies.com
 .kendincos.net
 .kenengba.com
 ||kenengba.com
@@ -3668,6 +3693,8 @@ listorious.com
 .liuhanyu.com
 .liujianshu.com
 ||liujianshu.com
+.liuxiaobo.net
+|http://liuxiaobo.net
 liuxiaotong.com
 ||liuxiaotong.com
 .livedoor.jp
@@ -3938,6 +3965,8 @@ mp3ye.eu
 mpfinance.com
 mpinews.com
 mponline.hk
+.mqxd.org
+|http://mqxd.org
 mrtweet.com
 ||mrtweet.com
 news.hk.msn.com
@@ -4132,6 +4161,7 @@ nlfreevpn.com
 sytes.net
 .whodns.xyz
 .zapto.org
+|http://dynupdate.no-ip.com/
 
 ||nobel.se
 !--.nobelprize.org
@@ -4203,6 +4233,7 @@ nytcn.me
 ||nytimg.com
 userapi.nytlog.com
 cn.nytstyle.com
+||nytstyle.com
 .nzchinese.com
 ||nzchinese.net.nz
 
@@ -4362,6 +4393,7 @@ pdetails.com
 ||peace.ca
 peacefire.org
 peacehall.com
+||peacehall.com
 |http://pearlher.org
 .peeasian.com
 .pekingduck.org
@@ -4488,6 +4520,8 @@ provpnaccounts.com
 proxyanonimo.es
 .proxynetwork.org.uk
 ||proxynetwork.org.uk
+.pscp.tv
+||pscp.tv
 ||pts.org.tw
 .pttvan.org
 pubu.com.tw
@@ -4708,7 +4742,7 @@ robtex.com
 ||rocket-inc.net
 |http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
 |http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
-||rocmp.org
+!--||rocmp.org
 ||rojo.com
 ||ronjoneswriter.com
 ||rolia.net
@@ -5545,6 +5579,8 @@ bbs.tuitui.info
 .tunein.com
 |http://tunein.com
 ||tunnelbear.com
+.tuo8.blue
+||tuo8.blue
 .tuo8.cc
 .tuo8.club
 ||tuo8.club
@@ -5583,6 +5619,7 @@ tuitwit.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
+|http://blog.soylent.com/
 
 .tv.com
 |http://tv.com
@@ -5929,6 +5966,7 @@ voagd.com
 voachinese.com
 ||voachinese.com
 .voanews.com
+||voanews.com
 voatibetan.com
 ||voatibetan.com
 .voatibetanenglish.com
@@ -6220,6 +6258,7 @@ worldjournal.com
 |http://*.wordpress.com
 ||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||hkanews.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
 ||wp.com
@@ -6487,7 +6526,8 @@ zhongguotese.net
 ||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
-zhuangbi.me/account/login/url-Lw==
+.zhuangbi.me
+||zhuangbi.me
 .zhuanxing.cn
 ||zhuatieba.com
 zhuichaguoji.org
