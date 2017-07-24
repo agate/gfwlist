@@ -2131,6 +2131,7 @@ DOMAIN-KEYWORD, .ftchinese.com/story/001073408, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/video/1437, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/video/1882, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/comments, Proxy
+DOMAIN-KEYWORD, .ftv.com.tw, Proxy
 DOMAIN-KEYWORD, fucd.com, Proxy
 DOMAIN-KEYWORD, .fuckcnnic.net, Proxy
 DOMAIN-SUFFIX, fuckcnnic.net, Proxy
@@ -2788,6 +2789,7 @@ DOMAIN-KEYWORD, .jamyangnorbu.com, Proxy
 DOMAIN-KEYWORD, .jandyx.com, Proxy
 DOMAIN-SUFFIX, janwongphoto.com, Proxy
 DOMAIN-SUFFIX, japan-whores.com, Proxy
+DOMAIN-KEYWORD, .jav101.com, Proxy
 DOMAIN-KEYWORD, .jav2be.com, Proxy
 DOMAIN-SUFFIX, jav2be.com, Proxy
 DOMAIN-KEYWORD, .jav68.tv, Proxy
@@ -4879,6 +4881,8 @@ DOMAIN-SUFFIX, blogs.tampabay.com, Proxy
 DOMAIN-SUFFIX, contests.twilio.com, Proxy
 DOMAIN-KEYWORD, .embr.in, Proxy
 DOMAIN-SUFFIX, embr.in, Proxy
+DOMAIN-KEYWORD, .u9un.com, Proxy
+DOMAIN-SUFFIX, u9un.com, Proxy
 DOMAIN-KEYWORD, .ubddns.org, Proxy
 DOMAIN-SUFFIX, uberproxy.net, Proxy
 DOMAIN-KEYWORD, .uc-japan.org, Proxy
@@ -5647,6 +5651,7 @@ DOMAIN-SUFFIX, sogou.com, DIRECT
 DOMAIN-SUFFIX, so.com, DIRECT
 DOMAIN-SUFFIX, soso.com, DIRECT
 DOMAIN-SUFFIX, taobao.com, DIRECT
+DOMAIN-SUFFIX, uluai.com.cn, DIRECT
 DOMAIN-SUFFIX, weibo.com, DIRECT
 DOMAIN-SUFFIX, yahoo.cn, DIRECT
 DOMAIN-SUFFIX, youdao.com, DIRECT
@@ -5691,6 +5696,8 @@ DOMAIN-SUFFIX, stackoverflow.com, Proxy
 DOMAIN-SUFFIX, serverfault.com, Proxy
 DOMAIN-SUFFIX, superuser.com, Proxy
 DOMAIN-SUFFIX, askubuntu.com, Proxy
+DOMAIN-SUFFIX, nintendo.com, Proxy
+DOMAIN-SUFFIX, nintendo.net, Proxy
 DOMAIN-SUFFIX, typekit.net, Proxy
 DOMAIN-SUFFIX, fonts.net, Proxy
 DOMAIN-SUFFIX, 101hacks.com, Proxy
@@ -5764,3 +5771,4 @@ DOMAIN-SUFFIX, cedexis-radar.net, Proxy
 DOMAIN-SUFFIX, vaultproject.io, Proxy
 DOMAIN-SUFFIX, herokuapp.com, Proxy
 DOMAIN-SUFFIX, fedoramagazine.org, Proxy
+DOMAIN-SUFFIX, mechanicalkeyboards.com, Proxy
