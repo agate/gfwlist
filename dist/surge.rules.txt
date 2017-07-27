@@ -937,6 +937,7 @@ DOMAIN-SUFFIX, berlintwitterwall.com, Proxy
 DOMAIN-KEYWORD, .berm.co.nz, Proxy
 DOMAIN-KEYWORD, .bestforchina.org, Proxy
 DOMAIN-SUFFIX, bestforchina.org, Proxy
+DOMAIN-KEYWORD, .bestgore.com, Proxy
 DOMAIN-SUFFIX, bestvpn.com, Proxy
 DOMAIN-KEYWORD, .bestvpnserver.com, Proxy
 DOMAIN-KEYWORD, .bestvpnservice.com, Proxy
@@ -3480,6 +3481,7 @@ DOMAIN-KEYWORD, .nukistream.com, Proxy
 DOMAIN-SUFFIX, nurgo-software.com, Proxy
 DOMAIN-SUFFIX, nutaku.net, Proxy
 DOMAIN-KEYWORD, .nuvid.com, Proxy
+DOMAIN-SUFFIX, nvdst.com, Proxy
 DOMAIN-KEYWORD, nuzcom.com, Proxy
 DOMAIN-KEYWORD, .nvquan.org, Proxy
 DOMAIN-KEYWORD, .nvtongzhisheng.org, Proxy
@@ -5772,3 +5774,4 @@ DOMAIN-SUFFIX, vaultproject.io, Proxy
 DOMAIN-SUFFIX, herokuapp.com, Proxy
 DOMAIN-SUFFIX, fedoramagazine.org, Proxy
 DOMAIN-SUFFIX, mechanicalkeyboards.com, Proxy
+DOMAIN-SUFFIX, npmjs.com, Proxy
