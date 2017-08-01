@@ -5775,3 +5775,4 @@ DOMAIN-SUFFIX, herokuapp.com, Proxy
 DOMAIN-SUFFIX, fedoramagazine.org, Proxy
 DOMAIN-SUFFIX, mechanicalkeyboards.com, Proxy
 DOMAIN-SUFFIX, npmjs.com, Proxy
+DOMAIN-SUFFIX, bose.com, Proxy
