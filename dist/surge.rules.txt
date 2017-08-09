@@ -7,6 +7,7 @@ DOMAIN-SUFFIX, alien-ufos.com, Proxy
 DOMAIN-SUFFIX, altrec.com, Proxy
 DOMAIN-SUFFIX, arena.taipei, Proxy
 DOMAIN-SUFFIX, asianspiss.com, Proxy
+DOMAIN-SUFFIX, assimp.org, Proxy
 DOMAIN-SUFFIX, athenaeizou.com, Proxy
 DOMAIN-SUFFIX, azubu.tv, Proxy
 DOMAIN-SUFFIX, banorte.com, Proxy
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX, static.comico.tw, Proxy
 DOMAIN-SUFFIX, crossfire.co.kr, Proxy
 DOMAIN-SUFFIX, d2pass.com, Proxy
 DOMAIN-SUFFIX, darpa.mil, Proxy
+DOMAIN-SUFFIX, dawangidc.com, Proxy
 DOMAIN-SUFFIX, deezer.com, Proxy
 DOMAIN-SUFFIX, desipro.de, Proxy
 DOMAIN-SUFFIX, dish.com, Proxy
@@ -149,10 +151,13 @@ DOMAIN-SUFFIX, ssl.webpack.de, Proxy
 DOMAIN-SUFFIX, wheretowatch.com, Proxy
 DOMAIN-SUFFIX, wingamestore.com, Proxy
 DOMAIN-SUFFIX, wizcrafts.net, Proxy
+DOMAIN-SUFFIX, vod.wwe.com, Proxy
 DOMAIN-SUFFIX, xfinity.com, Proxy
 DOMAIN-SUFFIX, ytn.co.kr, Proxy
 DOMAIN-SUFFIX, zattoo.com, Proxy
 DOMAIN-SUFFIX, zozotown.com, Proxy
+DOMAIN-KEYWORD, 14.102.250.18, Proxy
+DOMAIN-KEYWORD, 14.102.250.19, Proxy
 DOMAIN-KEYWORD, 50.7.31.230:8898, Proxy
 DOMAIN-KEYWORD, 174.142.105.153, Proxy
 DOMAIN-KEYWORD, 69.65.19.160, Proxy
@@ -395,6 +400,7 @@ DOMAIN-SUFFIX, chromium.org, Proxy
 DOMAIN-SUFFIX, com.google, Proxy
 DOMAIN-SUFFIX, creativelab5.com, Proxy
 DOMAIN-SUFFIX, data-vocabulary.org, Proxy
+DOMAIN-SUFFIX, debug.com, Proxy
 DOMAIN-SUFFIX, deepmind.com, Proxy
 DOMAIN-SUFFIX, deja.com, Proxy
 DOMAIN-SUFFIX, design.google, Proxy
@@ -563,7 +569,10 @@ DOMAIN-KEYWORD, .173ng.com, Proxy
 DOMAIN-SUFFIX, 173ng.com, Proxy
 DOMAIN-KEYWORD, .177pic.info, Proxy
 DOMAIN-KEYWORD, .17t17p.com, Proxy
+DOMAIN-SUFFIX, 18board.com, Proxy
+DOMAIN-SUFFIX, 18board.info, Proxy
 DOMAIN-KEYWORD, 18onlygirls.com, Proxy
+DOMAIN-KEYWORD, .18p2p.com, Proxy
 DOMAIN-KEYWORD, .18virginsex.com, Proxy
 DOMAIN-KEYWORD, .1949er.org, Proxy
 DOMAIN-KEYWORD, zhao.1984.city, Proxy
@@ -1443,6 +1452,7 @@ DOMAIN-SUFFIX, crossthewall.net, Proxy
 DOMAIN-KEYWORD, csdparty.com, Proxy
 DOMAIN-SUFFIX, csdparty.com, Proxy
 DOMAIN-SUFFIX, csuchen.de, Proxy
+DOMAIN-KEYWORD, .csw.org.uk, Proxy
 DOMAIN-KEYWORD, .ctao.org, Proxy
 DOMAIN-KEYWORD, .ctfriend.net, Proxy
 DOMAIN-KEYWORD, .ctitv.com.tw, Proxy
@@ -1725,6 +1735,7 @@ DOMAIN-KEYWORD, .enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%
 DOMAIN-SUFFIX, enewstree.com, Proxy
 DOMAIN-KEYWORD, .enfal.de, Proxy
 DOMAIN-KEYWORD, chinese.engadget.com, Proxy
+DOMAIN-SUFFIX, engagedaily.org, Proxy
 DOMAIN-KEYWORD, englishforeveryone.org, Proxy
 DOMAIN-SUFFIX, englishfromengland.co.uk, Proxy
 DOMAIN-KEYWORD, englishpen.org, Proxy
@@ -1962,11 +1973,10 @@ DOMAIN-SUFFIX, franklc.com, Proxy
 DOMAIN-KEYWORD, .freakshare.com, Proxy
 DOMAIN-SUFFIX, free4u.com.ar, Proxy
 DOMAIN-KEYWORD, free-gate.org, Proxy
+DOMAIN-KEYWORD, .free-hada-now.org, Proxy
+DOMAIN-KEYWORD, free-proxy.cz, Proxy
 DOMAIN-KEYWORD, .free.fr/adsl, Proxy
-DOMAIN-SUFFIX, allonlinux.free.fr, Proxy
-DOMAIN-SUFFIX, dimitrik.free.fr, Proxy
 DOMAIN-KEYWORD, kineox.free.fr, Proxy
-DOMAIN-SUFFIX, puttycm.free.fr, Proxy
 DOMAIN-SUFFIX, freealim.com, Proxy
 DOMAIN-KEYWORD, whitebear.freebearblog.org, Proxy
 DOMAIN-SUFFIX, freebrowser.org, Proxy
@@ -1981,7 +1991,6 @@ DOMAIN-KEYWORD, .freefq.com, Proxy
 DOMAIN-KEYWORD, .freefuckvids.com, Proxy
 DOMAIN-KEYWORD, .freegao.com, Proxy
 DOMAIN-SUFFIX, freegao.com, Proxy
-DOMAIN-KEYWORD, .free-hada-now.org, Proxy
 DOMAIN-KEYWORD, freeilhamtohti.org, Proxy
 DOMAIN-KEYWORD, .freekwonpyong.org, Proxy
 DOMAIN-SUFFIX, saveliuxiaobo.com, Proxy
@@ -2656,6 +2665,7 @@ DOMAIN-SUFFIX, igvita.com, Proxy
 DOMAIN-SUFFIX, ihakka.net, Proxy
 DOMAIN-KEYWORD, .ihao.org/dz5, Proxy
 DOMAIN-SUFFIX, iicns.com, Proxy
+DOMAIN-KEYWORD, .ikstar.com, Proxy
 DOMAIN-SUFFIX, illusionfactory.com, Proxy
 DOMAIN-SUFFIX, ilove80.be, Proxy
 DOMAIN-SUFFIX, im.tv, Proxy
@@ -2726,6 +2736,7 @@ DOMAIN-SUFFIX, ippotv.com, Proxy
 DOMAIN-KEYWORD, .ipredator.se, Proxy
 DOMAIN-SUFFIX, ipredator.se, Proxy
 DOMAIN-KEYWORD, .iptv.com.tw, Proxy
+DOMAIN-SUFFIX, iptvbin.com, Proxy
 DOMAIN-SUFFIX, ipvanish.com, Proxy
 DOMAIN-KEYWORD, iredmail.org, Proxy
 DOMAIN-KEYWORD, chinese.irib.ir, Proxy
@@ -4756,6 +4767,7 @@ DOMAIN-KEYWORD, twapperkeeper.com, Proxy
 DOMAIN-SUFFIX, twapperkeeper.com, Proxy
 DOMAIN-SUFFIX, twaud.io, Proxy
 DOMAIN-KEYWORD, .twaud.io, Proxy
+DOMAIN-KEYWORD, .twavi.com, Proxy
 DOMAIN-KEYWORD, .twbbs.net.tw, Proxy
 DOMAIN-KEYWORD, twbbs.org, Proxy
 DOMAIN-KEYWORD, twbbs.tw, Proxy
@@ -4769,6 +4781,7 @@ DOMAIN-KEYWORD, tweetboard.com, Proxy
 DOMAIN-SUFFIX, tweetboard.com, Proxy
 DOMAIN-KEYWORD, .tweetboner.biz, Proxy
 DOMAIN-SUFFIX, tweetboner.biz, Proxy
+DOMAIN-KEYWORD, .tweetcs.com, Proxy
 DOMAIN-KEYWORD, .tweetdeck.com, Proxy
 DOMAIN-SUFFIX, tweetdeck.com, Proxy
 DOMAIN-SUFFIX, mtw.tl, Proxy
@@ -5776,3 +5789,4 @@ DOMAIN-SUFFIX, fedoramagazine.org, Proxy
 DOMAIN-SUFFIX, mechanicalkeyboards.com, Proxy
 DOMAIN-SUFFIX, npmjs.com, Proxy
 DOMAIN-SUFFIX, bose.com, Proxy
+DOMAIN-SUFFIX, zeplin.io, Proxy
