@@ -132,6 +132,7 @@ DOMAIN-SUFFIX, shutterstock.com, Proxy
 DOMAIN-SUFFIX, slacker.com, Proxy
 DOMAIN-SUFFIX, sm-miracle.com, Proxy
 DOMAIN-SUFFIX, spotify.com, Proxy
+DOMAIN-SUFFIX, spreadshirt.es, Proxy
 DOMAIN-SUFFIX, springboardplatform.com, Proxy
 DOMAIN-SUFFIX, sprite.org, Proxy
 DOMAIN-SUFFIX, superokayama.com, Proxy
@@ -168,13 +169,17 @@ DOMAIN-KEYWORD, 50.7.31.230:8898, Proxy
 DOMAIN-KEYWORD, 174.142.105.153, Proxy
 DOMAIN-KEYWORD, 69.65.19.160, Proxy
 DOMAIN-SUFFIX, xn--4gq171p.com, Proxy
+DOMAIN-SUFFIX, xn--czq75pvv1aj5c.org, Proxy
 DOMAIN-SUFFIX, xn--i2ru8q2qg.com, Proxy
 DOMAIN-SUFFIX, xn--p8j9a0d9c9a.xn--q9jyb4c, Proxy
+DOMAIN-SUFFIX, agro.hk, Proxy
+DOMAIN-SUFFIX, pixiv.net, Proxy
 DOMAIN-KEYWORD, china-mmm.jp.net, Proxy
 DOMAIN-KEYWORD, .lsxszzg.com, Proxy
 DOMAIN-KEYWORD, .china-mmm.net, Proxy
 DOMAIN-SUFFIX, china-mmm.net, Proxy
 DOMAIN-KEYWORD, china-mmm.sa.com, Proxy
+DOMAIN-KEYWORD, .allowed.org, Proxy
 DOMAIN-KEYWORD, .now.im, Proxy
 DOMAIN-KEYWORD, .amazon.com/Dalai-Lama, Proxy
 DOMAIN-KEYWORD, s3-ap-northeast-1.amazonaws.com, Proxy
@@ -439,7 +444,7 @@ DOMAIN-KEYWORD, .google.az, Proxy
 DOMAIN-KEYWORD, .google.ba, Proxy
 DOMAIN-KEYWORD, .google.be, Proxy
 DOMAIN-KEYWORD, .google.bg, Proxy
-DOMAIN-KEYWORD, .google.cat, Proxy
+DOMAIN-KEYWORD, .google.ca, Proxy
 DOMAIN-KEYWORD, .google.cd, Proxy
 DOMAIN-KEYWORD, .google.ci, Proxy
 DOMAIN-KEYWORD, .google.co.id, Proxy
@@ -632,6 +637,7 @@ DOMAIN-SUFFIX, vghtc.gov.tw, DIRECT
 DOMAIN-SUFFIX, wanfang.gov.tw, DIRECT
 DOMAIN-SUFFIX, yatsen.gov.tw, DIRECT
 DOMAIN-SUFFIX, yda.gov.tw, DIRECT
+DOMAIN-SUFFIX, kinmen.org.tw, Proxy
 DOMAIN-KEYWORD, .030buy.com, Proxy
 DOMAIN-KEYWORD, .0rz.tw, Proxy
 DOMAIN-KEYWORD, 1-apple.com.tw, Proxy
@@ -1074,6 +1080,8 @@ DOMAIN-SUFFIX, bitcointalk.org, Proxy
 DOMAIN-KEYWORD, .bitshare.com, Proxy
 DOMAIN-SUFFIX, bitshare.com, Proxy
 DOMAIN-KEYWORD, bitsnoop.com, Proxy
+DOMAIN-KEYWORD, .bitvise.com, Proxy
+DOMAIN-SUFFIX, bitvise.com, Proxy
 DOMAIN-KEYWORD, bizhat.com, Proxy
 DOMAIN-SUFFIX, bl-doujinsouko.com, Proxy
 DOMAIN-KEYWORD, .bjnewlife.org, Proxy
@@ -2170,6 +2178,7 @@ DOMAIN-KEYWORD, .ftchinese.com/story/001040918, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001042100, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001042252, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001042272, Proxy
+DOMAIN-KEYWORD, .ftchinese.com/story/001043534, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001044776, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001045755, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001046118, Proxy
@@ -2188,6 +2197,7 @@ DOMAIN-KEYWORD, .ftchinese.com/story/001054644, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001055299, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001055551, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001055559, Proxy
+DOMAIN-KEYWORD, .ftchinese.com/story/001056131, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001056529, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001056554, Proxy
 DOMAIN-KEYWORD, .ftchinese.com/story/001056567, Proxy
@@ -2545,7 +2555,6 @@ DOMAIN-SUFFIX, getcloudapp.com, Proxy
 DOMAIN-SUFFIX, cl.ly, Proxy
 DOMAIN-SUFFIX, f.cl.ly, DIRECT
 DOMAIN-SUFFIX, getsmartlinks.com, Proxy
-DOMAIN-SUFFIX, git-scm.com, Proxy
 DOMAIN-KEYWORD, heqinglian.net, Proxy
 DOMAIN-SUFFIX, heungkongdiscuss.com, Proxy
 DOMAIN-KEYWORD, .hexieshe.com, Proxy
@@ -3243,7 +3252,7 @@ DOMAIN-KEYWORD, lvhai.org, Proxy
 DOMAIN-SUFFIX, lvhai.org, Proxy
 DOMAIN-SUFFIX, lvv2.com, Proxy
 DOMAIN-KEYWORD, .lyfhk.net, Proxy
-DOMAIN-KEYWORD, .m-team.cc, Proxy
+DOMAIN-KEYWORD, http://*.m-team.cc, Proxy
 DOMAIN-KEYWORD, .macrovpn.com, Proxy
 DOMAIN-KEYWORD, macts.com.tw, Proxy
 DOMAIN-SUFFIX, mad-ar.ch, Proxy
@@ -3629,6 +3638,7 @@ DOMAIN-KEYWORD, ntdtv.ru, Proxy
 DOMAIN-KEYWORD, ntdtvla.com, Proxy
 DOMAIN-KEYWORD, .ntrfun.com, Proxy
 DOMAIN-SUFFIX, cbs.ntu.edu.tw, Proxy
+DOMAIN-SUFFIX, media.nu.nl, Proxy
 DOMAIN-KEYWORD, .nubiles.net, Proxy
 DOMAIN-SUFFIX, nuexpo.com, Proxy
 DOMAIN-KEYWORD, .nukistream.com, Proxy
@@ -3891,6 +3901,7 @@ DOMAIN-KEYWORD, .pokerstars.net, Proxy
 DOMAIN-KEYWORD, zh.pokerstrategy.com, Proxy
 DOMAIN-KEYWORD, politicalchina.org, Proxy
 DOMAIN-KEYWORD, politicalconsultation.org, Proxy
+DOMAIN-SUFFIX, poloniex.com, Proxy
 DOMAIN-KEYWORD, .polymerhk.com, Proxy
 DOMAIN-KEYWORD, .popo.tw, Proxy
 DOMAIN-SUFFIX, popvote.hk, Proxy
@@ -5304,6 +5315,7 @@ DOMAIN-SUFFIX, vporn.com, Proxy
 DOMAIN-KEYWORD, .vpser.net, Proxy
 DOMAIN-SUFFIX, vpser.net, DIRECT
 DOMAIN-KEYWORD, vraiesagesse.net, Proxy
+DOMAIN-KEYWORD, .vrmtr.com, Proxy
 DOMAIN-SUFFIX, vtunnel.com, Proxy
 DOMAIN-SUFFIX, vuku.cc, Proxy
 DOMAIN-KEYWORD, lists.w3.org/archives/public, Proxy
@@ -5572,6 +5584,7 @@ DOMAIN-KEYWORD, xyy69.info, Proxy
 DOMAIN-KEYWORD, page.bid.yahoo.com, Proxy
 DOMAIN-KEYWORD, tw.bid.yahoo.com, Proxy
 DOMAIN-KEYWORD, blogs.yahoo.co.jp, Proxy
+DOMAIN-SUFFIX, search.yahoo.co.jp, Proxy
 DOMAIN-KEYWORD, buy.yahoo.com.tw/gdsale, Proxy
 DOMAIN-KEYWORD, hk.yahoo.com, Proxy
 DOMAIN-KEYWORD, hk.knowledge.yahoo.com, Proxy
@@ -5903,3 +5916,4 @@ DOMAIN-SUFFIX, npmjs.com, Proxy
 DOMAIN-SUFFIX, bose.com, Proxy
 DOMAIN-SUFFIX, zeplin.io, Proxy
 DOMAIN-SUFFIX, vnet.link, Proxy
+DOMAIN-SUFFIX, chineseinla.com, Proxy
