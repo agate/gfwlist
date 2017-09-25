@@ -1,0 +1,34 @@
+[General]
+loglevel = notify
+bypass-system = true
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+bypass-tun = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
+allow-wifi-access = false
+hide-crashlytics-request = true
+port = 1087
+socks-port = 1080
+ipv6 = false
+
+[Proxy]
+Server = custom, host, port, method, password, http://cdn.abclite.cn/SSEncrypt.module
+
+[Proxy Group]
+Proxy = select, Server
+
+[Rule]
+<%= rules.join("\n") %>
+
+IP-CIDR,91.108.56.0/22,Proxy,no-resolve
+IP-CIDR,91.108.4.0/22,Proxy,no-resolve
+IP-CIDR,109.239.140.0/24,Proxy,no-resolve
+IP-CIDR,149.154.160.0/20,Proxy,no-resolve
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+
+FINAL,DIRECT
+
+[URL Rewrite]
+^http://www.google.cn http://www.google.com header
