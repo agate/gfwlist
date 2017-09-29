@@ -36,11 +36,14 @@ namespace :surge do
       next if line.strip.empty?   # blank line
 
       if match = line.match(/^\|\|(.*)/)
-        rules << "DOMAIN-SUFFIX,#{match[1]},Proxy"
+        rule = match[1].sub(/^\./, '')
+        rules << "DOMAIN-SUFFIX,#{rule},Proxy"
       elsif match = line.match(/^@@\|\|(.*)/)
-        rules << "DOMAIN-SUFFIX,#{match[1]},DIRECT"
+        rule = match[1].sub(/^\./, '')
+        rules << "DOMAIN-SUFFIX,#{rule},DIRECT"
       elsif match = line.match(/^([^@|].*)/)
-        rules << "DOMAIN-KEYWORD,#{match[1]},Proxy"
+        rule = match[1].sub(/^\./, '')
+        rules << "DOMAIN-KEYWORD,#{rule},Proxy"
       end
 
       content = ERB.new(File.read(SURGE_TEMPLATE)).result(binding)

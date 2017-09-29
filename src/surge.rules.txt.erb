@@ -10,10 +10,10 @@ socks-port = 1080
 ipv6 = false
 
 [Proxy]
-Server = custom, host, port, method, password, http://cdn.abclite.cn/SSEncrypt.module
+server = custom, host, port, method, password, http://cdn.abclite.cn/SSEncrypt.module
 
 [Proxy Group]
-Proxy = select, Server
+Proxy = select, server
 
 [Rule]
 <%= rules.join("\n") %>
