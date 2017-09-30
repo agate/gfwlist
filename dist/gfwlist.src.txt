@@ -6984,7 +6984,7 @@ zhengjian
 ||heroku.com
 ||stack.imgur.com
 ||macupdate.com
-||api.tiles.mapbox.com
+||tiles.mapbox.com
 ||raster.nationalmap.gov
 ||playpcesor.com
 ||readthedocs.org

@@ -5895,7 +5895,7 @@ DOMAIN-SUFFIX,gravatar.com,Proxy
 DOMAIN-SUFFIX,heroku.com,Proxy
 DOMAIN-SUFFIX,stack.imgur.com,Proxy
 DOMAIN-SUFFIX,macupdate.com,Proxy
-DOMAIN-SUFFIX,api.tiles.mapbox.com,Proxy
+DOMAIN-SUFFIX,tiles.mapbox.com,Proxy
 DOMAIN-SUFFIX,raster.nationalmap.gov,Proxy
 DOMAIN-SUFFIX,playpcesor.com,Proxy
 DOMAIN-SUFFIX,readthedocs.org,Proxy
