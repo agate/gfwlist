@@ -6681,7 +6681,7 @@ DOMAIN-SUFFIX,mechanicalkeyboards.com,Proxy
 DOMAIN-SUFFIX,npmjs.com,Proxy
 DOMAIN-SUFFIX,bose.com,Proxy
 DOMAIN-SUFFIX,zeplin.io,Proxy
-DOMAIN-SUFFIX,vnet.link,Proxy
+DOMAIN-SUFFIX,vx.link,Proxy
 DOMAIN-SUFFIX,chineseinla.com,Proxy
 DOMAIN-SUFFIX,firebaseio.com,Proxy
 DOMAIN-SUFFIX,intercomcdn.com,Proxy
